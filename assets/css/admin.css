@@ -1,0 +1,13 @@
+#pd-settings-form {
+    margin-top: 13px;
+    -webkit-user-select: none;
+}
+#pd-settings-form .bbpd-settings-table {
+    max-width: 500px;
+}
+#pd-settings-form .bbpd-settings-table td {
+    vertical-align: middle;
+}
+#pd-settings-form .bbpd-settings-table .bbpd-input {
+    width: 100%;
+}
